@@ -1,2 +1,2 @@
 # securities-performance
-Securities Companies Performance Data Service
+A data service of securities company
